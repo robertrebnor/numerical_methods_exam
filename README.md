@@ -28,3 +28,6 @@ pip install -r requirements.txt
 ```
 python 100_MyMainProgram.py
 ```
+
+
+**NOTE:** My code is not a complete replication, since I did not reproduce all of the code from MATLAB
